@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center">
-  <img alt="versão 1 do projeto" title="#Encurtador" src=".github/site.png">
+  <img alt="versão 1 do projeto" title="#Encurtador" src=".github/site.PNG">
 </p>  
 
 
