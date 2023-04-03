@@ -1,0 +1,23 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "92509c3a-a298-467c-be6e-31d584bae4f2",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/"
+      },
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1680547270829"
+        }
+      },
+      "favorite": {
+        "name": "Mongoose-course",
+        "color": "color6"
+      }
+    }
+  ]
+}

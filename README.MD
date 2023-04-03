@@ -22,9 +22,15 @@
 - Mongoose
 - MongoDB
 
-# 🎮 Deploy
+# 🎮 Rode na sua máquina
 
-- Em manutenção :0
+- Para rodar o projeto na sua máquina siga os seguintes passos
+  * Baixe o projeto e instale o MongoDB no site oficial. Após isso, inicie o MongoDBCompass.
+  * Após iniciar o MongoDBCompass clique em Connect e vá em `Import saved connections`.
+  * Selecione o arquivo que veio junto com o projeto chamado de `compass-connections.json` 
+  * Abra o projeto e digite `npm install`
+  * Após isso escreva o comando `node app.js`
+  * Agora é só abrir o navegador e digitar [http:localhost:3000/]
 
 # ✅ Créditos
 
